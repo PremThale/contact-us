@@ -2,7 +2,7 @@
 //get data from form  
 
 $name = $_POST['name'];
-$email= $_POST['email'];
+$email= $_POST['email address'];
 $message= $_POST['message'];
 $to = "ibrahimsh1910@gmail.com";
 $subject = "Mail From CodeConia";
